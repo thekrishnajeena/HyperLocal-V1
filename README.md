@@ -6,6 +6,7 @@ This project implements a dynamic dashboard screen in Android using **Jetpack Co
 
 ## Overview
 
+![Dashboard Screen](sample.png)
 The backend provides a list of widget metadata in the following format:
 
 ```json
